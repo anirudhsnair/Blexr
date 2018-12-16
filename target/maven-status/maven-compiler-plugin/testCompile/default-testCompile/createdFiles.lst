@@ -1,0 +1,3 @@
+com\evernote\stepdefinitions\NotesStepDefinitions.class
+com\evernote\runner\TestRunner.class
+com\evernote\stepdefinitions\LoginStepDefinitions.class
