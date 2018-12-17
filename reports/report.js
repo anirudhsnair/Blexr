@@ -85,7 +85,7 @@ formatter.match({
   "location": "LoginStepDefinitions.user_is_on_Login_Page()"
 });
 formatter.result({
-  "duration": 19531610884,
+  "duration": 56946049373,
   "status": "passed"
 });
 formatter.match({
@@ -102,14 +102,14 @@ formatter.match({
   "location": "LoginStepDefinitions.user_login_to_the_system_with_anirudh_s_nair_gmail_com_and_anirudh_$(String,String)"
 });
 formatter.result({
-  "duration": 6247802951,
+  "duration": 17395257208,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStepDefinitions.homepage_should_be_displayed()"
 });
 formatter.result({
-  "duration": 12875753604,
+  "duration": 48939679585,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -193,7 +193,7 @@ formatter.match({
   "location": "LoginStepDefinitions.user_is_on_Login_Page()"
 });
 formatter.result({
-  "duration": 4621407176,
+  "duration": 28575047576,
   "status": "passed"
 });
 formatter.match({
@@ -206,7 +206,7 @@ formatter.match({
   "location": "LoginStepDefinitions.user_try_to_login_with_non_registered_email(String)"
 });
 formatter.result({
-  "duration": 959917899,
+  "duration": 19481585386,
   "status": "passed"
 });
 formatter.match({
@@ -219,7 +219,7 @@ formatter.match({
   "location": "LoginStepDefinitions.warning_message_should_be_displayed(String)"
 });
 formatter.result({
-  "duration": 166846961,
+  "duration": 155729788,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -306,7 +306,7 @@ formatter.match({
   "location": "LoginStepDefinitions.user_is_on_Login_Page()"
 });
 formatter.result({
-  "duration": 3684749017,
+  "duration": 28575668696,
   "status": "passed"
 });
 formatter.match({
@@ -323,7 +323,7 @@ formatter.match({
   "location": "LoginStepDefinitions.user_login_to_the_system_with_anirudh_s_nair_gmail_com_and_anirudh_$(String,String)"
 });
 formatter.result({
-  "duration": 3771483126,
+  "duration": 3947410551,
   "status": "passed"
 });
 formatter.match({
@@ -336,7 +336,7 @@ formatter.match({
   "location": "LoginStepDefinitions.warning_message_should_be_displayed(String)"
 });
 formatter.result({
-  "duration": 203120781,
+  "duration": 135036852,
   "status": "passed"
 });
 formatter.scenario({
@@ -366,21 +366,21 @@ formatter.match({
   "location": "LoginStepDefinitions.user_is_on_Login_Page()"
 });
 formatter.result({
-  "duration": 4491041704,
+  "duration": 16813172660,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStepDefinitions.user_clicks_on_continue_button_without_entering_email()"
 });
 formatter.result({
-  "duration": 899122464,
+  "duration": 4919275120,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStepDefinitions.warning_message_should_be_displayed()"
 });
 formatter.result({
-  "duration": 98576935,
+  "duration": 72578197,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -474,7 +474,7 @@ formatter.match({
   "location": "LoginStepDefinitions.user_is_on_Login_Page()"
 });
 formatter.result({
-  "duration": 2367050553,
+  "duration": 13604882497,
   "status": "passed"
 });
 formatter.match({
@@ -487,14 +487,14 @@ formatter.match({
   "location": "LoginStepDefinitions.user_clicks_on_continue_button_by_inputting_valid_email(String)"
 });
 formatter.result({
-  "duration": 645586324,
+  "duration": 1333908640,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStepDefinitions.user_clicks_on_Sign_in_button_without_entering_password()"
 });
 formatter.result({
-  "duration": 1248680449,
+  "duration": 6620065397,
   "status": "passed"
 });
 formatter.match({
@@ -507,7 +507,7 @@ formatter.match({
   "location": "LoginStepDefinitions.warning_message_should_be_displayed(String)"
 });
 formatter.result({
-  "duration": 188733061,
+  "duration": 99045099,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -612,7 +612,7 @@ formatter.match({
   "location": "LoginStepDefinitions.user_is_on_Login_Page()"
 });
 formatter.result({
-  "duration": 4150398405,
+  "duration": 11345640075,
   "status": "passed"
 });
 formatter.match({
@@ -629,21 +629,21 @@ formatter.match({
   "location": "LoginStepDefinitions.user_checks_Remember_me_for_days_while_login_to_the_system_with_anirudh_s_nair_gmail_com_and_anirudh_$(String,String)"
 });
 formatter.result({
-  "duration": 4268467199,
+  "duration": 6483770446,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStepDefinitions.clicks_on_Sign_Out_button()"
 });
 formatter.result({
-  "duration": 6813639279,
+  "duration": 7734825784,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStepDefinitions.user_is_on_Login_Page()"
 });
 formatter.result({
-  "duration": 3013432818,
+  "duration": 9685768603,
   "status": "passed"
 });
 formatter.match({
@@ -656,7 +656,7 @@ formatter.match({
   "location": "LoginStepDefinitions.anirudh_s_nair_gmail_com_should_be_prefilled_in_email_input_field(String)"
 });
 formatter.result({
-  "duration": 417991504,
+  "duration": 130021069,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -761,7 +761,7 @@ formatter.match({
   "location": "LoginStepDefinitions.user_is_on_Login_Page()"
 });
 formatter.result({
-  "duration": 3713683041,
+  "duration": 3452361768,
   "status": "passed"
 });
 formatter.match({
@@ -778,21 +778,23 @@ formatter.match({
   "location": "LoginStepDefinitions.user_un_checks_Remember_me_for_days_while_login_to_the_system_with_anirudh_s_nair_gmail_com_and_anirudh_$(String,String)"
 });
 formatter.result({
-  "duration": 794420412,
-  "error_message": "org.openqa.selenium.InvalidElementStateException: invalid element state\n  (Session info: chrome\u003d70.0.3538.110)\n  (Driver info: chromedriver\u003d2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform\u003dWindows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 36 milliseconds\nBuild info: version: \u00273.0.1\u0027, revision: \u00271969d75\u0027, time: \u00272016-10-18 09:49:13 -0700\u0027\nSystem info: host: \u0027Machine\u0027, ip: \u0027192.168.42.52\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_131\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities [{applicationCacheEnabled\u003dfalse, rotatable\u003dfalse, mobileEmulationEnabled\u003dfalse, networkConnectionEnabled\u003dfalse, chrome\u003d{chromedriverVersion\u003d2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab), userDataDir\u003dC:\\Users\\Anirudh\\AppData\\Local\\Temp\\scoped_dir1740_22199}, takesHeapSnapshot\u003dtrue, pageLoadStrategy\u003dnormal, databaseEnabled\u003dfalse, handlesAlerts\u003dtrue, hasTouchScreen\u003dfalse, version\u003d70.0.3538.110, platform\u003dXP, browserConnectionEnabled\u003dfalse, nativeEvents\u003dtrue, acceptSslCerts\u003dfalse, acceptInsecureCerts\u003dfalse, locationContextEnabled\u003dtrue, webStorageEnabled\u003dtrue, browserName\u003dchrome, takesScreenshot\u003dtrue, javascriptEnabled\u003dtrue, cssSelectorsEnabled\u003dtrue, setWindowRect\u003dtrue, unexpectedAlertBehaviour\u003d}]\nSession ID: 644100113d608da37ed09e378ab3e0f4\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:216)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:168)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:635)\r\n\tat org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:274)\r\n\tat org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:98)\r\n\tat com.evernote.page.LoginPage.validLoginWithRememberMe(LoginPage.java:103)\r\n\tat com.evernote.stepdefinitions.LoginStepDefinitions.user_un_checks_Remember_me_for_days_while_login_to_the_system_with_anirudh_s_nair_gmail_com_and_anirudh_$(LoginStepDefinitions.java:78)\r\n\tat ✽.When User un-checks Remember me for 30 days while login to the system with anirudh.s.nair@gmail.com and anirudh123$(Login.feature:54)\r\n",
-  "status": "failed"
+  "duration": 3597642386,
+  "status": "passed"
 });
 formatter.match({
   "location": "LoginStepDefinitions.clicks_on_Sign_Out_button()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 6234913761,
+  "status": "passed"
 });
 formatter.match({
   "location": "LoginStepDefinitions.user_is_on_Login_Page()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 797435849,
+  "error_message": "org.openqa.selenium.WebDriverException: unknown error: failed to change window state to normal, current state is maximized\n  (Session info: chrome\u003d70.0.3538.110)\n  (Driver info: chromedriver\u003d2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform\u003dWindows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 163 milliseconds\nBuild info: version: \u00273.0.1\u0027, revision: \u00271969d75\u0027, time: \u00272016-10-18 09:49:13 -0700\u0027\nSystem info: host: \u0027Machine\u0027, ip: \u0027192.168.42.52\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_131\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities [{applicationCacheEnabled\u003dfalse, rotatable\u003dfalse, mobileEmulationEnabled\u003dfalse, networkConnectionEnabled\u003dfalse, chrome\u003d{chromedriverVersion\u003d2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab), userDataDir\u003dC:\\Users\\Anirudh\\AppData\\Local\\Temp\\scoped_dir11084_13903}, takesHeapSnapshot\u003dtrue, pageLoadStrategy\u003dnormal, databaseEnabled\u003dfalse, handlesAlerts\u003dtrue, hasTouchScreen\u003dfalse, version\u003d70.0.3538.110, platform\u003dXP, browserConnectionEnabled\u003dfalse, nativeEvents\u003dtrue, acceptSslCerts\u003dfalse, acceptInsecureCerts\u003dfalse, locationContextEnabled\u003dtrue, webStorageEnabled\u003dtrue, browserName\u003dchrome, takesScreenshot\u003dtrue, javascriptEnabled\u003dtrue, cssSelectorsEnabled\u003dtrue, setWindowRect\u003dtrue, unexpectedAlertBehaviour\u003d}]\nSession ID: 173debf2f6fa1caba9076a21588dc31d\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:216)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:168)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:635)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:658)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver$RemoteWebDriverOptions$RemoteWindow.maximize(RemoteWebDriver.java:882)\r\n\tat com.evernote.page.LoginPage.initialLaunch(LoginPage.java:27)\r\n\tat com.evernote.stepdefinitions.LoginStepDefinitions.user_is_on_Login_Page(LoginStepDefinitions.java:12)\r\n\tat ✽.And User is on Login Page(Login.feature:56)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "arguments": [
@@ -939,9 +941,8 @@ formatter.match({
   "location": "NotesStepDefinitions.userLoginGiven(String,String)"
 });
 formatter.result({
-  "duration": 3544007622,
-  "error_message": "org.openqa.selenium.InvalidElementStateException: invalid element state\n  (Session info: chrome\u003d70.0.3538.110)\n  (Driver info: chromedriver\u003d2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform\u003dWindows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 39 milliseconds\nBuild info: version: \u00273.0.1\u0027, revision: \u00271969d75\u0027, time: \u00272016-10-18 09:49:13 -0700\u0027\nSystem info: host: \u0027Machine\u0027, ip: \u0027192.168.42.52\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_131\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities [{applicationCacheEnabled\u003dfalse, rotatable\u003dfalse, mobileEmulationEnabled\u003dfalse, networkConnectionEnabled\u003dfalse, chrome\u003d{chromedriverVersion\u003d2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab), userDataDir\u003dC:\\Users\\Anirudh\\AppData\\Local\\Temp\\scoped_dir1740_22199}, takesHeapSnapshot\u003dtrue, pageLoadStrategy\u003dnormal, databaseEnabled\u003dfalse, handlesAlerts\u003dtrue, hasTouchScreen\u003dfalse, version\u003d70.0.3538.110, platform\u003dXP, browserConnectionEnabled\u003dfalse, nativeEvents\u003dtrue, acceptSslCerts\u003dfalse, acceptInsecureCerts\u003dfalse, locationContextEnabled\u003dtrue, webStorageEnabled\u003dtrue, browserName\u003dchrome, takesScreenshot\u003dtrue, javascriptEnabled\u003dtrue, cssSelectorsEnabled\u003dtrue, setWindowRect\u003dtrue, unexpectedAlertBehaviour\u003d}]\nSession ID: 644100113d608da37ed09e378ab3e0f4\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:216)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:168)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:635)\r\n\tat org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:274)\r\n\tat org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:98)\r\n\tat com.evernote.page.NotesPage.Login(NotesPage.java:44)\r\n\tat com.evernote.stepdefinitions.NotesStepDefinitions.userLoginGiven(NotesStepDefinitions.java:14)\r\n\tat ✽.Given User is logged into the system with anirudh.s.nair@gmail.com and anirudh123$(Notes.feature:4)\r\n",
-  "status": "failed"
+  "duration": 6104041625,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -957,13 +958,15 @@ formatter.match({
   "location": "NotesStepDefinitions.a_note_is_created_with_title_and_body(String,String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 8258685490,
+  "status": "passed"
 });
 formatter.match({
   "location": "NotesStepDefinitions.logout_from_Evernote()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 6640168174,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -979,7 +982,8 @@ formatter.match({
   "location": "NotesStepDefinitions.userLoginGiven(String,String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 13809723460,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -995,6 +999,7 @@ formatter.match({
   "location": "NotesStepDefinitions.created_note_should_be_available_in_the_notes_list(String,String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 2450138572,
+  "status": "passed"
 });
 });

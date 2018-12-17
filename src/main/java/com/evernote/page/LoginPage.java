@@ -64,6 +64,7 @@ public class LoginPage {
 		GenericMethods.driver.findElement(By.xpath(emailInputBox)).sendKeys(email);
 		wait.until(ExpectedConditions.presenceOfElementLocated(By.xpath(continueButton)));
 		GenericMethods.driver.findElement(By.xpath(continueButton)).click();
+		wait.until(ExpectedConditions.presenceOfElementLocated(By.xpath(passwordInputBox)));
 	}
 
 	public static void verifyValidationMessage(String message) {
